@@ -1,6 +1,6 @@
 # Goal
 
-This repository serves as a demonstration for running a jupyter lab server within a container. Only for educational purposes.
+This repository serves as a simple demonstration for running a jupyter lab server within a container, and nothing more than that. Hence, I made it available solely for educational purposes.
 
 # Usage
 ## cd into the directionary of cloning
